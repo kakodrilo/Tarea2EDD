@@ -1,0 +1,34 @@
+Joaquín Castillo 201773520-1 paralelo 200 
+
+   Parte1: implementacion de la funcion main
+
+   Parte2: implementacion de funciones TDApolinomio:
+	   -vaciarAux
+	   -vaciar
+	   -buscarAux
+	   -buscarCoeficiente
+	   implementacion de la funcion main
+
+Rodrigo Orellana 201773522-8 paralelo 202
+
+   Parte1: implementacion de funciones TDApolinomio:
+	   -agregar
+	   -del
+	   -siguiente
+   
+   Parte2: implementacion de funciones TDApolinomio:
+	   -iniciarArbol
+	   -vacio
+	   -insertar
+
+Axel Reyes 201773502-3 paralelo 200
+   
+   Parte1: implementacion de funciones TDApolinomio:
+	   -coeficiente
+	   -max
+	   -evaluar
+
+   Parte2: implementacion de funciones TDApolinomio:
+	   -ver
+	   -recorrer
+	   -evaluar
